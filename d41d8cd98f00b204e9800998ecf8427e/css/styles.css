@@ -25,7 +25,7 @@ img { display:block; position:relative; padding:0; }
 
 /* =Typography
 --------------------------------------------------------------------------------------------------------*/
-body { font: 12px 'Open Sans', Arial, Helvetica, sans-serif; color:#888888; background:url(../images/CMP_background.jpg) center top no-repeat fixed #ecfafc;}
+body { font: 12px 'Open-Sans', Arial, Helvetica, sans-serif; color:#888888; background:url(../images/CMP_background.jpg) center top no-repeat fixed #ecfafc;}
 strong { font-weight:700; }
 a, a > * {-webkit-transition: all 0.2s ease 0s; -moz-transition: all 0.2s ease 0s; -o-transition: all 0.2s ease 0s; transition: all 0.2s ease 0s; }
 a {color:#ca2b63; text-decoration:none}
@@ -38,7 +38,7 @@ a:hover {color:#322b23; }
 --------------------------------------------------------------------------------------------------------*/
 h1#logo { display:block; position:absolute; margin-left:10px; }
 h1#logo a { display:block; width:275px; height:75px; background:url(../images/dobrydoktor_logo.png) no-repeat; text-indent:-9999px }
-h2 { font-size:26px; font-weight:300; color:#fff; font-family:'Open Sans', Arial, Helvetica, sans-serif; background: #a6ce38; padding:5px 11px; margin:30px 10px 0 10px; text-transform:uppercase; display:inline-block; border-left:5px solid #6f4d9e; }
+h2 { font-size:26px; font-weight:300; color:#fff; font-family:'Open-Sans', Arial, Helvetica, sans-serif; background: #a6ce38; padding:5px 11px; margin:30px 10px 0 10px; text-transform:uppercase; display:inline-block; border-left:5px solid #6f4d9e; }
 h2.blockquote { font-size:36px; font-weight:700; background:none; color:#322b23; margin:10px 0 0 0; }
 h3 { font-size:23px; font-weight:normal; color: #6f4d9e; line-height:33px; padding:23px 10px 22px 0; font-weight:400; font-family:Georgia, "Times New Roman", Times, serif; font-style:italic }
 h3 span, h4 span { background:#fff; border-bottom:1px solid #e7e7e7; padding:1px 0; }
@@ -89,7 +89,7 @@ p.posted {font-size:11px; text-transform:uppercase; color:#444 }
 --------------------------------------------------------------------------------------------------------*/
 ul#nav { margin-top:24px; margin-right:10px; }
 ul#nav li { float:left; }
-ul#nav li a { color:#a5a5a5; font-family: "Open Sans", Arial, Helvetica, sans-serif; font-size:12px; font-weight:600; text-decoration:none; text-transform:uppercase; margin:0px 0px 0px 15px; display:inline-block; padding:6px 10px 5px 10px; border-bottom:1px solid #fff; }
+ul#nav li a { color:#a5a5a5; font-family: "Open-Sans", Arial, Helvetica, sans-serif; font-size:12px; font-weight:600; text-decoration:none; text-transform:uppercase; margin:0px 0px 0px 15px; display:inline-block; padding:6px 10px 5px 10px; border-bottom:1px solid #fff; }
 ul#nav li a:hover { color:#322b23; }
 ul#nav li.active a { color:#fff; background:#A6CE38; border-bottom:1px solid #A6CE38; }
 /* End Main Nav

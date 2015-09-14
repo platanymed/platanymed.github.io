@@ -90,7 +90,7 @@ ul#nav li a { margin:0px 0px 0px 5px; }
 #map {width:748px !important; height:350px !important; }
 
 .js #nav { display: none; }
-.js .selectnav { display: block; margin:15px 10px; color:#a5a5a5; font-family: "Open Sans", Arial, Helvetica, sans-serif; font-size:13px; font-weight:600; line-height:13px; text-decoration:none; text-transform:uppercase; width:180px !important;}
+.js .selectnav { display: block; margin:15px 10px; color:#a5a5a5; font-family: "Open-Sans", Arial, Helvetica, sans-serif; font-size:13px; font-weight:600; line-height:13px; text-decoration:none; text-transform:uppercase; width:180px !important;}
 }
 
 /* All Mobile Sizes (devices and browser) */
@@ -107,7 +107,7 @@ aside {display:none; }
 .videos {width:420px !important; height:235px !important; }
 
 .js #nav { display: none; }
-.js .selectnav { display: block; margin:15px 10px; color:#a5a5a5; font-family: "Open Sans", Arial, Helvetica, sans-serif; font-size:13px; font-weight:600; line-height:13px; text-decoration:none; text-transform:uppercase; width:140px !important;}
+.js .selectnav { display: block; margin:15px 10px; color:#a5a5a5; font-family: "Open-Sans", Arial, Helvetica, sans-serif; font-size:13px; font-weight:600; line-height:13px; text-decoration:none; text-transform:uppercase; width:140px !important;}
 
 .element {width:200px !important; display:block; }
 .responsive-folio { overflow:visible !important }
@@ -145,7 +145,7 @@ aside {display:none; }
 .videos {width:300px !important; height:175px !important; }
 
 .js #nav { display: none; }
-.js .selectnav { display: block; margin:18px 10px 0px 10px; color:#a5a5a5; font-family: "Open Sans", Arial, Helvetica, sans-serif; font-size:13px; font-weight:600; line-height:13px; text-decoration:none; text-transform:uppercase; width:300px !important }
+.js .selectnav { display: block; margin:18px 10px 0px 10px; color:#a5a5a5; font-family: "Open-Sans", Arial, Helvetica, sans-serif; font-size:13px; font-weight:600; line-height:13px; text-decoration:none; text-transform:uppercase; width:300px !important }
 nav.alignright {display:block; float:none; }
 
 .element {width:300px; display:block; }
