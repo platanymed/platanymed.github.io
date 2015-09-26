@@ -164,7 +164,8 @@ header .container {padding:16px 45px 17px 45px; height:75px; }
 .img-cover i { display:block; font-style:normal; position:absolute; width:100%; height:100%; z-index:9; top:0; left:0; background-color:rgba(50, 43, 35, 0.95) !important; background-color:#322b23; opacity:0;  filter:alpha(opacity:0) }
 .img-cover .icons { display:inline-block; width:56px; height:56px; position:absolute; z-index:10; left:50%; top:50%; margin-left:-31px; margin-top:-31px; border-radius:65px; border:3px solid #fff; opacity:0;  filter:alpha(opacity:0)}
 .img-cover .icons.mail { background:url(../images/buttons/bg-envelope.png) 50% 50% no-repeat; }
-.img-cover .icons.www { background:url(../images/buttons/bg-envelope.png) 50% 50% no-repeat; }
+.img-cover .www {text-align: center; line-height: 56px}
+.img-cover span.wwwsp {display: inline-block; vertical-align: middle; line-height: normal; font-weight: bold; font-size: 14px}
 .img-cover .icons.link { background:url(../images/buttons/bg-link.png) 50% 50% no-repeat; }
 .img-cover .icons.zoom { background:url(../images/buttons/bg-zoom.png) 50% 50% no-repeat; }
 .img-cover .icons.video { background:url(../images/buttons/bg-video.png) 50% 50% no-repeat; }
