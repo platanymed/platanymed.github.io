@@ -1,4 +1,7 @@
 User-agent: *
 Disallow: 
 Disallow: /images/
-Disallow: /abonamenty.html
+Disallow: /dist/
+Disallow: /secret/
+Disallow: /68e439c967cb019151a4727779cb622b/
+Disallow: /d41d8cd98f00b204e9800998ecf8427e/
