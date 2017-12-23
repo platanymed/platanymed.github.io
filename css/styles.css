@@ -118,8 +118,25 @@ header .container {padding:16px 45px 17px 45px; height:75px; }
 .images { display:block; margin:10px 0 10px 0; position:relative; }
 .images:after { border:1px solid rgba(0, 0, 0, .1); bottom:0; content:''; left:0; position:absolute; right:0; top:0; }
 .videos {width:700px; height:392px; display:block; top:0; left:0; }
-.docs {background-color: #6f4d9e; color: white; font-size: 14px; text-transform:uppercase; padding-left: 10px }
+.docs {background-color: #6f4d9e;
+    color: white;
+    font-size: 14px;
+    text-transform:uppercase;
+    padding-left: 10px;
+    float: left
+}
 .all { font-size: 14px; text-transform:uppercase; padding-left: 10px; padding-top: 7px }
+.docwithtri {
+    overflow: hidden;
+    background-color: #6f4d9e
+}
+.triangle-bottomright {
+    width: 0;
+    height: 0;
+    border-bottom: 30px solid #b8a2c9;
+    border-left: 30px solid transparent;
+    float: right
+}
 /* =End Main Content
 --------------------------------------------------------------------------------------------------------*/
 
